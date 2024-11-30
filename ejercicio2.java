@@ -9,7 +9,7 @@ public class ejercicio2 {
         Scanner entrada = new Scanner(System.in);
 
         for (int i = 0; i < 2; i++) {
-            System.out.println("Alumno " + (i + 1));
+            System.out.println("Alumno. " + (i + 1));
             System.out.print("Nombre: ");
             nombres[i] = entrada.nextLine();
             System.out.print("Edad: ");
