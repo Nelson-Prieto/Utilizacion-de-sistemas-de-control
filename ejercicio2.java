@@ -10,7 +10,7 @@ public class ejercicio2 {
 
         for (int i = 0; i < 2; i++) {
             System.out.println("Alumno. " + (i + 1));
-            System.out.print("Nombre: ");
+            System.out.print("Nombress: ");
             nombres[i] = entrada.nextLine();
             System.out.print("años: ");
             edades[i] = entrada.nextInt();
