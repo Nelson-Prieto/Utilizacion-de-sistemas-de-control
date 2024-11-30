@@ -15,7 +15,7 @@ public class ejercicio2 {
             System.out.print("años: ");
             edades[i] = entrada.nextInt();
             entrada.nextLine();
-            System.out.print("Cédula: ");
+            System.out.print("cc: ");
             cedulas[i] = entrada.nextInt();
             entrada.nextLine();
         }
